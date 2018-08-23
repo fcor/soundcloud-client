@@ -9,6 +9,4 @@ const Stream = ({ tracks = [] }) =>
     )
   })
 
-
-
-export default Stream
+  export default Stream
